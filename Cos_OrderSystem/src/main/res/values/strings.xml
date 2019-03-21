@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COS_OrderSystem</string>
+    <string name="menu_item01">點餐</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="menu_item02">結束</string>
+
+</resources>
